@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/gutic190/151fe695-5a01-48df-a9f6-b99dbb1819fd/531bc291-b580-4d7d-8dd0-203bf026d553/_apis/work/boardbadge/8d3c8d70-f33b-49d4-a972-23354fa5a545)](https://dev.azure.com/gutic190/151fe695-5a01-48df-a9f6-b99dbb1819fd/_boards/board/t/531bc291-b580-4d7d-8dd0-203bf026d553/Microsoft.RequirementCategory)
 # checkout
 
 This action checks out your repository to `$GITHUB_WORKSPACE`, so that your workflow can access the contents of your repository.
